@@ -5,10 +5,10 @@
 Soy un desarrollador Full Stack Junior de <a href="https://4geeks.com/" target="blank">4geeks academy <img width="30px" src="https://raw.githubusercontent.com/4GeeksAcademy/About-4Geeks-Academy/master/site/static/background_art.jpg" alt="4geeks-icon"/></a></a>
 </p>
 
-- 🌱 I’m currently learning Game Maker
+- 🌱 Aprendiendo Game Maker
 - 📫 Contáctame en felipe.munoz.1997@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-munoz-l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-munoz-l/" height="30" width="40" /></a>
 </p>
